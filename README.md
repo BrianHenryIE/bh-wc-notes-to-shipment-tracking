@@ -1,6 +1,8 @@
 [![WordPress tested 5.5](https://img.shields.io/badge/WordPress-v5.5%20tested-0073aa.svg)](https://wordpress.org/plugins/plugin_slug) [![PHPCS WPCS](https://img.shields.io/badge/PHPCS-WordPress%20Coding%20Standards-8892BF.svg)](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards) [![PHPUnit ](.github/coverage.svg)](https://brianhenryie.github.io/plugin_slug/)
 
-# BH WC DHL to Shipment Tracking
+# WooCommerce Notes to Shipment Tracking
+
+[dhlexpresscommerce.com](https://dhlexpresscommerce.com/) returns tracking numbers as order notes. This plugin parses that note and adds it into the [WooCommerce Shipment Tracking](https://woocommerce.com/products/shipment-tracking/) field (who then adds it to customer emails).
 
 ## Contributing
 
